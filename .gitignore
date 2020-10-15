@@ -1,0 +1,6 @@
+.*
+nbproject
+/dist
+/horde-flux-dispatcher.*
+/lib
+/node_modules
